@@ -1,0 +1,6 @@
+npm i express -genrate -global
+express -genrate -global
+npm i express -genrate -global
+express -genrate -global
+npm i express -genrate -global
+node\
